@@ -15,6 +15,6 @@ public class Factorial {
 	
 	public static void main(String[] args) {
 		Factorial obj = new Factorial();
-		System.out.println(obj.factorial(-6));
+		System.out.println("This is factorial result " + obj.factorial(-6));
 	}
 }
